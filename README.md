@@ -6,6 +6,7 @@
 * Complete: Solotricks now works perfectly
 * Complete: crash issues fixed mostly w/mutex.
 * Complete: Added serverside linesplit projection, using resolverigid.
+* Shit ass admin commands, teleport, ban, kick, mute, mass, virus
 * Fast: Accelerated physics calculation with multithreading.
 * Fun: Bot AI is dumb cuz i broke it.
 
